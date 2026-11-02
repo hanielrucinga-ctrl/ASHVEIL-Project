@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ashveil",
+      "hasCanvas": false,
+      "bodyTextLen": 410,
+      "bodyTextHash": "c3edf6d07d5aa7c569216866cbfe50fd8cdf88947fd4554d90c606d5699641f5",
+      "bodyTextPrefix": "FREE SHIPPING OVER $120 · SHIPS WORLDWIDE HOME SHOP ABOUT CONTAC",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ashveil",
+      "hasCanvas": false,
+      "bodyTextLen": 386,
+      "bodyTextHash": "060108f998c7d4ddfd5bca4ed828bdde8a5b96756afd2ab5fd6ad2103f0e664e",
+      "bodyTextPrefix": "FREE SHIPPING OVER $120 · SHIPS WORLDWIDE ASHVEIL Graphic garmen",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vercel/
+.tanstack/
+.wrangler/
+.grok/
+.node_modules.lock
+
+.env*
+!.env.example
+
+*.log
